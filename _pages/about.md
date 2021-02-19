@@ -20,7 +20,7 @@ I am broadly interested in the theory behind Big Data and Machine Learning probl
 News
 ======
 1. December 2020: Microsoft Diversity Award recipient. 
-1. January 2020: [Paper](http://proceedings.mlr.press/v108/rakhshan20a.html) accepted! 
+1. January 2020: Our [paper](http://proceedings.mlr.press/v108/rakhshan20a.html) got accepted in AISTATS 2020! [code]
 
 Site-wide configuration
 ------
