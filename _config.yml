@@ -11,9 +11,9 @@ title                    : "Beheshteh T. Rakhshan"
 title_separator          : "-"
 name                     : &name "Beheshteh T. Rakhshan"
 description              : &description "personal description"
-url                      : https://b-rakhshan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://brakhshan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "b-rakhshan/b-rakhshan.github.io"
+repository               : "brakhshan/brakhshan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "b-rakhshan"
+  github           : "brakhshan"
   google_plus      :
   keybase          :
   instagram        :
